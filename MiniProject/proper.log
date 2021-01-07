@@ -1,9 +1,0 @@
-2021-01-07 02:02:27.817 [main] INFO  TexasHamBurger.Driver - Selected Option 2 - Menu
-2021-01-07 02:02:43.531 [main] INFO  Menu.Menu - Added Special Menu Item: Chicken Tikka Masala At The Price of: 7.99
-2021-01-07 02:02:45.197 [main] INFO  TexasHamBurger.Driver - Selected Option 2 - Menu
-2021-01-07 02:02:54.681 [main] DEBUG Menu.Menu - Cannot Update The Special Menu Key: Chicken Does not Exist
-2021-01-07 02:02:59.516 [main] INFO  TexasHamBurger.Driver - Selected Option 2 - Menu
-2021-01-07 02:03:17.213 [main] INFO  Menu.Menu - Updated Special Menu Item: Chicken Tikka Masala Price to: 8.99
-2021-01-07 02:03:20.622 [main] INFO  TexasHamBurger.Driver - Selected Option 2 - Menu
-2021-01-07 02:03:28.618 [main] INFO  Menu.Menu - Deleted Special Menu Item: Chicken Tikka Masala
-2021-01-07 02:03:32.099 [main] INFO  TexasHamBurger.Driver - Selected Option 4 - Exit
